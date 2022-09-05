@@ -1,0 +1,21 @@
+{ 
+  "nombre":"Juan",
+  "apellido":"Torres",
+  "email" : "cypress@ateneaconocimientos.net",
+  "sexo":"Male",
+  "telefono":"3333333333",
+  "fechaDeNacimiento":[
+    "December",
+    "1990",
+    "13"
+  ],
+  "materia": "English",
+  "hobbies":[
+    "Sports",
+    "Music"
+  ],
+  "imagen": "my-image.png",
+  "direccion": "Alguna direccion ficticia",
+  "estado": "NCR",
+  "ciudad": "Delhi"
+}
